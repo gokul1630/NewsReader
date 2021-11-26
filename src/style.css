@@ -1,0 +1,10 @@
+html {
+	scroll-behavior: smooth;
+}
+.status {
+	content: '';
+	display: inline-block;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+}
